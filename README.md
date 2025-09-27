@@ -39,4 +39,5 @@ Fournir une solution **fiable, modulaire et efficace** pour la surveillance de l
 ---
 The demo vide : https://drive.google.com/file/d/1u7HYucdq7AoHm5PjJSkNpJtD8YXpN2A0/view?usp=drive_link
 
-report link :
+Report link : https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link
+
