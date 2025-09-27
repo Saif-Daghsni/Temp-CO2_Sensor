@@ -37,7 +37,8 @@ Ce projet consiste en un **système embarqué temps réel** utilisant le microco
 Fournir une solution **fiable, modulaire et efficace** pour la surveillance de l’air, combinant capteurs, affichage et alertes dans un système embarqué optimisé.  
 
 ---
-The demo vide : https://drive.google.com/file/d/1u7HYucdq7AoHm5PjJSkNpJtD8YXpN2A0/view?usp=drive_link
+▶️ [Watch the demo video]([https://drive.google.com/file/d/1YiADI7OYYPmesrxrs5YWvPZc4NW2qTWR/view?usp=drivesdk](https://drive.google.com/file/d/1u7HYucdq7AoHm5PjJSkNpJtD8YXpN2A0/view?usp=drive_link))  
 
-Report link : https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link
+📖[Read the report](https://drive.google.com/file/d/15Qdc9kGLfM-vilsBCdXImr4zCZQ4ah59/view?usp=drive_link)
+
 
